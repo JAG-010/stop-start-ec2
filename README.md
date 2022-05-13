@@ -1,4 +1,4 @@
-# stop-start-ec2
+# Start and Stop EC2 instances using Lambda and Eventbridge
 Terraform code to Start and Stop EC2 instances automatically using Lambda and Eventbridge services
 
 
